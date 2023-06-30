@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-## Just a <a href="https://www.java.com/en/">![Java](https://medieval.software/img/tech/lang/java.png)</a> hobbyist.
+## Just a <a href="https://www.java.com/en/">![Java])</a> hobbyist.
 
 
 <!---
