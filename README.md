@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-## Just a <a href="https://www.java.com/en/">![Java])</a> hobbyist.
+## Just a <a href="https://www.java.com/en/">Java</a> hobbyist.
 
 
 <!---
